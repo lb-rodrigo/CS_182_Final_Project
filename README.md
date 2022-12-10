@@ -6,12 +6,12 @@
 
 ### Contents
 This repo consists of a forked repository of Atheris as well as our tests stored in CS182Artifacts/. The following are descriptions and contents:
-- html_test.py
- - html_test.py
- - - html_test.py
- - - html_test.py
- - - html_test.py
- - - html_test.py
+- `html_test.py`:
+ - html_2test.py:
+ - html_4test.py:
+ - html5_test.py:
+ - html5_2test.py:
+ - html5_4test.py:
 
 
 # Atheris: A Coverage-Guided, Native Python Fuzzer
