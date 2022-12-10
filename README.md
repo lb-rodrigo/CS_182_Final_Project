@@ -19,6 +19,14 @@ This repo consists of a forked repository of Atheris as well as our tests stored
  - `8hours`: raw data for 8 hour run of all html5_test files
 
 
+### User Guide
+- `pip install atheris`
+- `pip install beautifulsoup4`
+- `python3 ./html_test.py`
+- `python3 ./html5_test.py`
+
+
+
 # Atheris: A Coverage-Guided, Native Python Fuzzer
 
 Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer. When fuzzing native code, Atheris can be used in combination with Address Sanitizer or Undefined Behavior Sanitizer to catch extra bugs.
