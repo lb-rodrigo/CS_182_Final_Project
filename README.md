@@ -12,6 +12,11 @@ This repo consists of a forked repository of Atheris as well as our tests stored
  - `html5_test.py`: find_all(tag) Runtime of 1 hour
  - `html5_2test.py`: find_all(attribute) Runtime of 1 hour
  - `html5_4test.py`: find_all(string) Runtime of 1 hour
+ - `html.xlsx`: raw data and graphs for executions of html_test.py to html_4test.py
+ - `html5_find_all(id=data).xlsx`: raw data and graphs for executions of html5_2test.py
+ - `html5_find_all(tag).xlsx`: raw data and graphs for executions of html5_test.py
+ - `html5_find_all(string).xlsx`: raw data and graphs for executions of html5_4test.py
+ - `8hours`: raw data for 8 hour run of all html5_test files
 
 
 # Atheris: A Coverage-Guided, Native Python Fuzzer
