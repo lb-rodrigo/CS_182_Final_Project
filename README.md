@@ -27,6 +27,11 @@ This repo consists of a forked repository of Atheris as well as our tests stored
 
 
 
+
+
+
+
+
 # Atheris: A Coverage-Guided, Native Python Fuzzer
 
 Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer. When fuzzing native code, Atheris can be used in combination with Address Sanitizer or Undefined Behavior Sanitizer to catch extra bugs.
