@@ -6,12 +6,12 @@
 
 ### Contents
 This repo consists of a forked repository of Atheris as well as our tests stored in CS182Artifacts/. The following are descriptions and contents:
-- `html_test.py`:
- - html_2test.py:
- - html_4test.py:
- - html5_test.py:
- - html5_2test.py:
- - html5_4test.py:
+- `html_test.py`: find_all(tag) ran into AssertionError
+ - `html_2test.py`: find_all(attribute) ran into AssertionError
+ - `html_4test.py`: find_all(string) ran into AssertionError
+ - `html5_test.py`: find_all(tag) Runtime of 1 hour
+ - `html5_2test.py`: find_all(attribute) Runtime of 1 hour
+ - `html5_4test.py`: find_all(string) Runtime of 1 hour
 
 
 # Atheris: A Coverage-Guided, Native Python Fuzzer
