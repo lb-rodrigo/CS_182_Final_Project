@@ -1,8 +1,18 @@
 # CS182 Atheris Project: Fuzzing BeautifulSoup4
 
-
+### Team Members
 - Rodrigo Lamas
  - Bobby Lerias
+
+### Contents
+This repo consists of a forked repository of Atheris as well as our tests stored in CS182Artifacts/. The following are descriptions and contents:
+- html_test.py
+ - html_test.py
+ - - html_test.py
+ - - html_test.py
+ - - html_test.py
+ - - html_test.py
+
 
 # Atheris: A Coverage-Guided, Native Python Fuzzer
 
